@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esto es una descripción" />
+    <meta name="keywords" content="palabra1, palabra2, palabra3" />
+    <meta name="author" content="Enrique Tejero Lara" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Título de la Página Web</title>
+</head>
+<body >
+    <table border="10" style=";background-color: yellow;width: 100%;border-color: rgb(255, 255, 0);">
+        <tr>
+            <td>Sucedió un 14 de diciembre</td>
+        </tr>
+        <tr>
+            <td style="background-color: white; "><center>
+                <table style="background-color: orange; height: 100px; width: 600px;">
+                    <th style="text-align: left;">Edad media</th>
+                    <tr>
+                        <td>
+                            <table style="background-color: yellow; margin: 5px; width: 590px; padding: 10px;">
+                                <tr>
+                                    <td>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="text-align: left; width: 200px; height: 50px; color: white;">557</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>Un violento terremoto destruye gran parte de Constantinopla. Más
+                                                                terremotos menores habían precedido al gran evento, incluidos dos en
+                                                                abril y octubre, respectivamente.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <br>
+                                <tr>
+                                    <td>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1287</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td> Graves inundaciones en el noroeste de Holanda provocan más de
+                                                                50.000 muertos.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                    </td>
+                                </tr>
+                        </td>
+                    </tr>
+                </table>
+                </td>
+                </tr>
+                </table>
+            </center>
+            <br>
+            <center>
+                <table style="background-color: orange; height: 100px; width: 600px;">
+                    <th style="text-align: left;">Edad moderna</th>
+                    <tr>
+                        <td>
+                            <table style="background-color: yellow; margin: 5px; width: 590px; padding: 10px;">
+                                <tr>
+                                    <td>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="text-align: left; width: 200px; height: 50px; color: white;">1542</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>María Estuardo es proclamanda Reina de Escocia. Fue reina hasta el
+                                                                24 de julio de 1567.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <br>
+                                <tr>
+                                    <td>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1782</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td> Los hermanos Montgolfier realizan el primer vuelo de prueba en
+                                                                globo.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                    </td>
+                                </tr>
+                        </td>
+                    </tr>
+                </table>
+                </td>
+                </tr>
+                </table>
+            </center>
+            <br>
+            <center>
+                <table style="background-color: orange; height: 100px; width: 600px;">
+                    <th style="text-align: left;">Edad contemporanea</th>
+                    <tr>
+                        <td>
+                            <table style="background-color: yellow; margin: 5px; width: 590px; padding: 10px;">
+                                <tr>
+                                    <td>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="text-align: left; width: 200px; height: 50px; color: white;">1812</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>El ejército napoleónico se retira derrotado de Rusia.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <br>
+                                <tr>
+                                    <td>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1819</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>Alabama se convierte en el 22º estado de EEUU.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                        <br>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1900</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>Max Planck presenta en una conferencia la hipótesis de que la
+                                                                energía electromagnética sólo se puede emitir en cantidades
+                                                                discretas, no contínuas.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                        <br>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1911</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>La expedición dirigida por Roald Amundsen alcanza el polo Sur.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                        <br>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1947</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>El estadio Santiago Bernabéu (del Real Madrid F.C ) acoge su primer
+                                                                partido de fútbol.</td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                        <br>
+                                        <table style="background-color: red; width: 590px;">
+                                            <th style="color: white; text-align: left; height: 50px;">1961</th>
+                                            <tr>
+                                                <td>
+                                                    <table style="background-color: yellow; width: 590px; height: 50px;">
+                                                        <tr>
+                                                            <td>La República Unida de Tanzania se une a la ONU.
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                        </table>
+                                    </td>
+                                </tr>
+                        </td>
+                    </tr>
+                </table>
+                </td>
+                </tr>
+                </table>
+            </center>
+</td>
+        </tr>
+        <tr>
+            <td>Información obtenida en la Wikipedia</td>
+        </tr>
+    </table>
+
+</body>
+</html>
