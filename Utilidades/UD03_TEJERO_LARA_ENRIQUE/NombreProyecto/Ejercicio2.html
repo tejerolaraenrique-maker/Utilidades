@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Esto es una descripción" />
+    <meta name="keywords" content="palabra1, palabra2, palabra3" />
+    <meta name="author" content="Enrique Tejero Lara" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Formulario Examen HTML5.</title>
+</head>
+
+<body>
+<form action="insertar_cv.html" method="get">
+<fieldset>
+    <legend>Rellenar</legend>
+    <select name="sexo"><option value="sexohombre">Hombre</option><option value="sexomujer">Mujer</option></select> <br>
+    <label>Elige un color</label>
+    <input type="color" name="color"> <br>
+    <label>Elige una fecha</label>
+    <input type="date" name="fecha"> <br>
+    <input type="radio" name="lenguaje" value="lenguajejava">Java
+    <input type="radio" name="lenguaje" value="lenguahepython">Python
+    <input type="radio" name="lenguaje" value="lemguajehtml">HTML
+    <input type="radio" name="lenguaje" value="lenguajevisual_basic">VisualBasic
+    <input type="radio" name="lenguaje" value="lenguajecss">CSS <br>
+    <input type="checkbox" name="sexo" value="sexohombre">Hombre
+    <input type="checkbox" name="sexo" value="sexomujer">Mujer <br>
+    <label>Elige un fichero:</label>
+    <input type="file" name="fichero">
+    <textarea name="escribe"  style="width: 400px; height: 150px;" placeholder="Por favor, escriba aquí"  ></textarea> <br>
+
+    <label>Instituto</label>
+    <input type="text" name="instituto"> <br>
+    <label>Estudios elegidos</label>
+    <input type="text" name="estudios"> <br>
+    <label>Nombre</label>
+    <input type="text" name="nombre"> <br>
+    <label>Apellidos</label>
+    <input type="text" name="apellidos"> <br>
+    <label>Correos</label>
+    <input type="text" name="correos"> <br>
+</fieldset>
+<fieldset>
+    <legend>Rellene las siguientes opciones</legend>
+        <input type="checkbox" name="sistema" value="sistemawindows">Windows
+        <input type="checkbox" name="sistema" value="sistemamac">Mac 
+        <input type="checkbox" name="sistema" value="sistemalinux">Linux<br>
+        <label>Elige una hora</label>
+        <input type="time" name="hora"> <br>
+            <input type="radio" name="procesador" value="procesadoramd">AMD
+            <input type="radio" name="procesador" value="procesadorintel_i5">Intel I5
+            <input type="radio" name="procesador" value="procesadorintel_i7">Intel I7 <br>
+            <label>Elige un fichero:</label>
+            <input type="file" name="fichero">
+</fieldset>
+<br><br><br>
+<input type="submit" value="Enviar">
+<input type="submit" value="Borrar los datos introducidos">
+</form>
+</body>
+
+</html>
